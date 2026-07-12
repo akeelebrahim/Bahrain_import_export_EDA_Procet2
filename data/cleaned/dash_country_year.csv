@@ -1,0 +1,732 @@
+flow,year,country_name,value_bd
+Export,2023,Albania,5455510.226
+Export,2023,Algeria,112232550.528
+Export,2023,Angola,1322682.675
+Export,2023,Argentina,135046.545
+Export,2023,Armenia,101361.821
+Export,2023,Australia,46964061.981
+Export,2023,Austria,12887202.76
+Export,2023,Azerbaijan,63297.574
+Export,2023,Bangladesh,6465716.302999999
+Export,2023,Barbados,3416.138
+Export,2023,Belgium,8548322.454
+Export,2023,Benin (Dahomey),55477.115999999995
+Export,2023,Bosnia & Herzegovina,9960.035
+Export,2023,Botswana,7753.285
+Export,2023,Brazil,51534352.052
+Export,2023,Brunei,900.0
+Export,2023,Bulgaria,13113760.516
+Export,2023,Cambodia,331089.346
+Export,2023,Cameroon,56722.678
+Export,2023,Canada,10125494.076
+Export,2023,Chad,204642.03999999998
+Export,2023,Chile,1070631.496
+Export,2023,China,13295432.442
+Export,2023,Colombia,10996283.876
+Export,2023,Costa Rica,1394859.9270000001
+Export,2023,Countries And Territories Not Specified For Commercial Or Military Reasons,18906754.262000002
+Export,2023,Croatia,446224.494
+Export,2023,Cyprus,454432.087
+Export,2023,Czech Republic,8888770.723
+Export,2023,Democratic Republic Of Congo,11699.135
+Export,2023,Denmark,7617993.748000001
+Export,2023,Djibouti,427190.283
+Export,2023,Dominican Republic,495633.794
+Export,2023,Duty Free & Warehouse,10117674.587000003
+Export,2023,Ecuador,5042995.0479999995
+Export,2023,Egypt,172209507.463
+Export,2023,El Salvador,2275943.491
+Export,2023,Eritrea,2041.18
+Export,2023,Estonia,112365.425
+Export,2023,Ethiopia,1599773.1539999999
+Export,2023,Fiji,22037.745000000003
+Export,2023,Finland,1730496.2680000002
+Export,2023,Fr Polynesia,50137.239
+Export,2023,France,40682950.152
+Export,2023,Free Zone Jabal Ali,697578.792
+Export,2023,Free Zone Oman,20484.634
+Export,2023,Gabon,35742.791
+Export,2023,Gambia,6365.171
+Export,2023,Georgia,141041.829
+Export,2023,Germany,56271980.44
+Export,2023,Ghana,800925.189
+Export,2023,Greece,27769367.714999996
+Export,2023,Guatemala,129.375
+Export,2023,Guinea,57502.03200000001
+Export,2023,Guyana,79698.577
+Export,2023,Hong Kong,31963818.395
+Export,2023,Hungary,4775026.22
+Export,2023,India,145829977.932
+Export,2023,Indonesia,13630385.043
+Export,2023,Iran,131091.802
+Export,2023,Iraq,15416412.946999999
+Export,2023,Ireland,5341234.543
+Export,2023,Israel,3034739.9529999997
+Export,2023,Italy,95779571.236
+Export,2023,Ivory Coast,470369.112
+Export,2023,Jamaica,250.0
+Export,2023,Japan,50462911.971
+Export,2023,Jordan,30626606.875
+Export,2023,Kazakhstan,36437.36
+Export,2023,Kenya,3816667.62
+Export,2023,Kuwait,118410977.396
+Export,2023,Latvia,9187.66
+Export,2023,Lebanon,3726823.671
+Export,2023,Liberia,93233.732
+Export,2023,Libya,57878822.515
+Export,2023,Liechtenstein,15.765
+Export,2023,Lithuania,1430562.639
+Export,2023,Luxembourg,20335349.359
+Export,2023,Macau,91739.82800000001
+Export,2023,Madagascar,15061.856
+Export,2023,Malawi,28247.581
+Export,2023,Malaysia,71274258.838
+Export,2023,Maldive Islands,10855.385
+Export,2023,Malta,48404.35400000001
+Export,2023,Mauritania,37532.057
+Export,2023,Mauritius,4553395.823
+Export,2023,Mexico,43136191.7
+Export,2023,Monaco,8706.968
+Export,2023,Montenegro,2487477.127
+Export,2023,Morocco,71810896.215
+Export,2023,Mozambique,1861163.94
+Export,2023,Myanmar,2765367.03
+Export,2023,Nepal,100639.276
+Export,2023,Netherlands,202978666.064
+Export,2023,New Zealand,4998825.513
+Export,2023,Nicaragua,11519.361
+Export,2023,Niger,599995.627
+Export,2023,Nigeria,7956317.038
+Export,2023,Norway,3775452.1489999997
+Export,2023,Pakistan,5144266.192
+Export,2023,Palestine,2710227.262
+Export,2023,Panama,67205.432
+Export,2023,Paraguay,2139367.064
+Export,2023,Peru,94889.339
+Export,2023,Philippines,3309614.833
+Export,2023,Poland,25519544.009
+Export,2023,Portugal,851916.071
+Export,2023,Qatar,27036813.971
+Export,2023,Repablic Of Congo,256722.72
+Export,2023,Republic Of Korea,89910408.76799999
+Export,2023,Republic Of Moldova,384655.551
+Export,2023,Returned Bahrain Goods,685393.5880000001
+Export,2023,Romania,1182010.007
+Export,2023,Russian Federation,479197.266
+Export,2023,Rwanda,6067.69
+Export,2023,Saint Lucia,11490.027
+Export,2023,Saudi Arabia,1095597328.4450002
+Export,2023,Senegal,2899883.885
+Export,2023,Serbia,129526.07100000001
+Export,2023,Seychelles,81127.513
+Export,2023,Singapore,59931082.551
+Export,2023,Slovakia,2757831.2199999997
+Export,2023,Slovenia,4270167.643
+Export,2023,Somalia,281308.838
+Export,2023,South Africa,47141103.76
+Export,2023,Spain,78545765.445
+Export,2023,Sri Lanka,3267434.522
+Export,2023,Sudan,1091896.0729999999
+Export,2023,Sultanate Oman,142983757.875
+Export,2023,Supply Of Ships And Aircrafts,19197994.705999993
+Export,2023,Sweden,5204032.651
+Export,2023,Switzerland,14397230.188
+Export,2023,Syria,462082.62
+Export,2023,Taiwan,44840928.505
+Export,2023,Tanzania,2516865.88
+Export,2023,Thailand,49591888.816
+Export,2023,Togo,52128.558
+Export,2023,Tunisia,16990960.173
+Export,2023,Turkey,138881343.587
+Export,2023,Turkmenistan,3941.893
+Export,2023,Uganda,31552.136
+Export,2023,Ukraine,21674.381
+Export,2023,United Arab Emirates,666018656.8709999
+Export,2023,United Kingdom,24261961.016
+Export,2023,United States Of America,390818348.9302
+Export,2023,Uruguay,153545.243
+Export,2023,Uzbekistan,243918.80999999997
+Export,2023,Vietnam,4978853.766
+Export,2023,Yemen,12487822.227
+Export,2023,Zambia,256.111
+Export,2024,Albania,7985420.806
+Export,2024,Algeria,133145903.813
+Export,2024,Angola,1883368.0150000001
+Export,2024,Anguilla,184724.64000000007
+Export,2024,Argentina,85055.341
+Export,2024,Armenia,1471834.423
+Export,2024,Australia,42122205.513
+Export,2024,Austria,912443.699
+Export,2024,Azerbaijan,6759.882
+Export,2024,Bangladesh,2192046.536
+Export,2024,Belgium,38894642.011
+Export,2024,Bosnia & Herzegovina,5818.518
+Export,2024,Brazil,61310587.483
+Export,2024,Brunei,354.419
+Export,2024,Bulgaria,14815757.595
+Export,2024,Cambodia,775704.635
+Export,2024,Cameroon,7519798.741
+Export,2024,Canada,22069018.511
+Export,2024,Chad,485499.33
+Export,2024,Chile,104372.94
+Export,2024,China,29822518.72
+Export,2024,Colombia,11082640.169
+Export,2024,Costa Rica,320452.163
+Export,2024,Countries And Territories Not Specified For Commercial Or Military Reasons,14286996.846
+Export,2024,Croatia,1756946.9949999999
+Export,2024,Cyprus,151267.176
+Export,2024,Czech Republic,2567723.06
+Export,2024,Democratic Republic Of Congo,28616.684
+Export,2024,Denmark,2642542.319
+Export,2024,Djibouti,320936.916
+Export,2024,Dominican Republic,408756.50299999997
+Export,2024,Duty Free & Warehouse,12583032.044
+Export,2024,Ecuador,10396024.155
+Export,2024,Egypt,133405527.045
+Export,2024,El Salvador,2014216.6570000001
+Export,2024,Eritrea,7615.265
+Export,2024,Estonia,19779.008
+Export,2024,Ethiopia,392409.937
+Export,2024,Fiji,61265.737
+Export,2024,Finland,1463359.138
+Export,2024,France,30389790.565000005
+Export,2024,Free Zone Jabal Ali,308711.88800000004
+Export,2024,Gabon,439158.082
+Export,2024,Georgia,122015.37
+Export,2024,Germany,23539132.993
+Export,2024,Ghana,367522.69899999996
+Export,2024,Greece,77662790.369
+Export,2024,Guinea,67189.74399999999
+Export,2024,Guyana,114346.162
+Export,2024,Hong Kong,19576749.651
+Export,2024,Hungary,832163.069
+Export,2024,Iceland,3719.441
+Export,2024,India,160958371.372
+Export,2024,Indonesia,11004621.572
+Export,2024,Iran,279036.349
+Export,2024,Iraq,22173198.119
+Export,2024,Ireland,1065599.618
+Export,2024,Israel,196471.416
+Export,2024,Italy,126466803.77499999
+Export,2024,Ivory Coast,273936.638
+Export,2024,Jamaica,5.265
+Export,2024,Japan,60202505.516
+Export,2024,Jordan,40221418.129
+Export,2024,Kenya,2313473.897
+Export,2024,Kuwait,97641339.749
+Export,2024,Kyrgyzstan,1486.498
+Export,2024,Latvia,3548.709
+Export,2024,Lebanon,4601166.692
+Export,2024,Liberia,31250.732
+Export,2024,Libya,29963480.564000003
+Export,2024,Lithuania,1659445.077
+Export,2024,Luxembourg,7612714.303
+Export,2024,Macau,1686.982
+Export,2024,Madagascar,16229.812999999998
+Export,2024,Malaysia,35675351.602
+Export,2024,Maldive Islands,29396.738
+Export,2024,Malta,59700.145000000004
+Export,2024,Mauritania,13663.023
+Export,2024,Mauritius,4268026.536
+Export,2024,Mayotte,9424.29
+Export,2024,Mexico,59437908.721
+Export,2024,Monaco,1694.808
+Export,2024,Montenegro,2895178.452
+Export,2024,Morocco,81096942.202
+Export,2024,Mozambique,209913.45
+Export,2024,Myanmar,131.628
+Export,2024,Namibia,54189.51
+Export,2024,Nepal,4692742.088
+Export,2024,Netherlands,216534276.174
+Export,2024,New Zealand,3910752.1130000004
+Export,2024,Nicaragua,19294.836
+Export,2024,Niger,286709.393
+Export,2024,Nigeria,3725112.876
+Export,2024,Norway,1303639.037
+Export,2024,Pakistan,12088674.59
+Export,2024,Palestine,2710275.255
+Export,2024,Panama,30381.386
+Export,2024,Paraguay,3142410.79184
+Export,2024,Peru,467789.81799999997
+Export,2024,Philippines,2735596.455
+Export,2024,Poland,16969736.658999998
+Export,2024,Portugal,29330.781000000003
+Export,2024,Qatar,127982267.66284
+Export,2024,Repablic Of Congo,118960.53199999999
+Export,2024,Republic Of Korea,100746953.634
+Export,2024,Republic Of Moldova,16228.377
+Export,2024,Returned Bahrain Goods,225407.087
+Export,2024,Romania,903708.296
+Export,2024,Russian Federation,814734.048
+Export,2024,Rwanda,250.0
+Export,2024,Saint Lucia,8664.906
+Export,2024,San Marino,65.806
+Export,2024,Saudi Arabia,1082797092.12642
+Export,2024,Senegal,4631132.795
+Export,2024,Serbia,12791.021999999999
+Export,2024,Seychelles,174756.072
+Export,2024,Singapore,40777888.891
+Export,2024,Slovakia,140034.778
+Export,2024,Slovenia,524395.519
+Export,2024,Somalia,1836735.2570000002
+Export,2024,South Africa,17410815.421
+Export,2024,South Sudan,2034.598
+Export,2024,Spain,108416933.16
+Export,2024,Sri Lanka,12596191.452
+Export,2024,Sudan,2967402.826
+Export,2024,Sultanate Oman,88788940.65068
+Export,2024,Supply Of Ships And Aircrafts,12755834.87956
+Export,2024,Sweden,2710263.242
+Export,2024,Switzerland,6635768.85
+Export,2024,Syria,282064.91000000003
+Export,2024,Taiwan,24018541.814
+Export,2024,Tanzania,6149581.595000001
+Export,2024,Thailand,61714506.17
+Export,2024,Togo,55100.522000000004
+Export,2024,Tunisia,23433028.017
+Export,2024,Turkey,82760571.43829
+Export,2024,Turkmenistan,136815.26
+Export,2024,Uganda,21344.856
+Export,2024,Ukraine,135969.336
+Export,2024,United Arab Emirates,655516113.07892
+Export,2024,United Kingdom,39539454.809999995
+Export,2024,United States Of America,431611659.31639
+Export,2024,Uruguay,895.073
+Export,2024,Venezuela,10000.0
+Export,2024,Vietnam,4682134.599
+Export,2024,Yemen,6071322.742000001
+Import,2023,Afghanistan,401336.439
+Import,2023,Albania,221901.277
+Import,2023,Algeria,512457.786
+Import,2023,Anguilla,5435.948
+Import,2023,Antarctica,393.136
+Import,2023,Antigua,9282.61
+Import,2023,Argentina,7236111.235
+Import,2023,Armenia,53977.676
+Import,2023,Aruba,1441.116
+Import,2023,Australia,472105825.492
+Import,2023,Austria,19085266.538
+Import,2023,Azerbaijan,519089.713
+Import,2023,Bahamas,192.485
+Import,2023,Bahrain,18514.358
+Import,2023,Bangladesh,12418066.906000001
+Import,2023,Barbados,26417.072
+Import,2023,Belarus,176605.039
+Import,2023,Belgium,23793152.919999998
+Import,2023,Belize,52771.272
+Import,2023,Bhutan,359.571
+Import,2023,Bolivia,79828.623
+Import,2023,Bosnia & Herzegovina,1176923.534
+Import,2023,Brazil,523243862.282
+Import,2023,British Indian Ocean Territory,134.903
+Import,2023,Brunei,5328.121
+Import,2023,Bulgaria,2822073.515
+Import,2023,Burkina Faso,11.204
+Import,2023,Burundi,8279.375
+Import,2023,Cambodia,3254696.404
+Import,2023,Cameroon,71396.163
+Import,2023,Canada,87551590.796
+Import,2023,Cape Verde,837.729
+Import,2023,Cayman Islands,435.711
+Import,2023,Central African Republic,195.661
+Import,2023,Chad,3611.5319999999997
+Import,2023,Chile,58028023.572
+Import,2023,China,808388542.988
+Import,2023,Cocos Islands,1699.253
+Import,2023,Colombia,1240337.241
+Import,2023,Comoro Islands,30509.418
+Import,2023,Costa Rica,1210456.703
+Import,2023,Countries And Territories Not Specified For Commercial Or Military Reasons,22885935.707
+Import,2023,Croatia,655721.546
+Import,2023,Cuba,71324.66799999999
+Import,2023,Curaçao,3.762
+Import,2023,Cyprus,2287489.348
+Import,2023,Czech Republic,21912646.23
+Import,2023,Democratic Republic Of Congo,16072241.897
+Import,2023,Denmark,19486465.906
+Import,2023,Djibouti,22.752
+Import,2023,Dominica,4004.795
+Import,2023,Dominican Republic,314351.582
+Import,2023,Duty Free & Warehouse,396264.516
+Import,2023,Ecuador,2100911.631
+Import,2023,Egypt,42646020.378
+Import,2023,El Salvador,189892.344
+Import,2023,Equat Guinea,589.576
+Import,2023,Eritrea,1277.041
+Import,2023,Estonia,1750387.244
+Import,2023,Ethiopia,586541.997
+Import,2023,Fiji,147833.234
+Import,2023,Finland,3856073.055
+Import,2023,France,152010113.12
+Import,2023,Free Zone Jabal Ali,16608218.262
+Import,2023,Free Zone Oman,183931.142
+Import,2023,Gabon,366582.651
+Import,2023,Gambia,24772.028000000002
+Import,2023,Georgia,107755.466
+Import,2023,Germany,197969321.958
+Import,2023,Ghana,31940.228
+Import,2023,Gibraltar,703.232
+Import,2023,Greece,7454805.175
+Import,2023,Grenada,2530.3940000000002
+Import,2023,Guadeloupe,6895.419999999999
+Import,2023,Guam,4120.0560000000005
+Import,2023,Guatemala,1385027.108
+Import,2023,Guinea,1148.84
+Import,2023,Guyana,535.0600000000001
+Import,2023,Haiti,2118.333
+Import,2023,Holy See,13296.492
+Import,2023,Honduras,242279.77200000003
+Import,2023,Hong Kong,1828139.2219999998
+Import,2023,Hungary,9910088.425999999
+Import,2023,Iceland,128667.881
+Import,2023,India,279910452.569
+Import,2023,Indonesia,38803604.63
+Import,2023,Iran,6410484.207
+Import,2023,Iraq,61774.977
+Import,2023,Ireland,36191163.939
+Import,2023,Israel,2017235.6729999997
+Import,2023,Italy,152123758.717
+Import,2023,Ivory Coast,363650.692
+Import,2023,Jamaica,7164.959
+Import,2023,Japan,257815178.769
+Import,2023,Jordan,26668279.761
+Import,2023,Kazakhstan,236927.86
+Import,2023,Kenya,9764834.679000001
+Import,2023,Kuwait,69208169.635
+Import,2023,Kyrgyzstan,17724.781
+Import,2023,Lao People' S Dem Republic,47326.008
+Import,2023,Latvia,595304.903
+Import,2023,Lebanon,1522476.99
+Import,2023,Lesotho,5111.967
+Import,2023,Liberia,1236.6119999999999
+Import,2023,Libya,16200.832
+Import,2023,Liechtenstein,131859.624
+Import,2023,Lithuania,4182875.986
+Import,2023,Luxembourg,596161.134
+Import,2023,Macau,20874.986
+Import,2023,Macedonia,125781.734
+Import,2023,Madagascar,149059.765
+Import,2023,Malaysia,27722277.009
+Import,2023,Maldive Islands,13324.354
+Import,2023,Mali,5982426.884
+Import,2023,Malta,1643490.0790000001
+Import,2023,Mauritania,4753.7660000000005
+Import,2023,Mauritius,116315.907
+Import,2023,Mayotte,52.526
+Import,2023,Mexico,27799956.457
+Import,2023,Micronesia,450.122
+Import,2023,Monaco,26831.163
+Import,2023,Mongolia,7674.689
+Import,2023,Montenegro,4581.5779999999995
+Import,2023,Morocco,4779847.87
+Import,2023,Mozambique,593152.066
+Import,2023,Myanmar,2153545.349
+Import,2023,Namibia,30296.842
+Import,2023,Nauru,12814.51
+Import,2023,Nepal,80811.065
+Import,2023,Netherlands,46512516.008
+Import,2023,Netherlands Antilles,5960.905
+Import,2023,Neutral Zone,12.429
+Import,2023,New Caledonia,1063.8590000000002
+Import,2023,New Zealand,17855802.723
+Import,2023,Nicaragua,30505.52
+Import,2023,Niger,10872.036
+Import,2023,Nigeria,3948471.322
+Import,2023,Northern Mariana Islands,64.62
+Import,2023,Norway,5114817.901
+Import,2023,Pakistan,29445528.372
+Import,2023,Palestine,211223.483
+Import,2023,Panama,113075.447
+Import,2023,Papua New Guinea,2585.1440000000002
+Import,2023,Paraguay,374429.37
+Import,2023,Peru,973952.922
+Import,2023,Philippines,10201075.328
+Import,2023,Pitcairn,10.492
+Import,2023,Poland,56878515.603
+Import,2023,Portugal,7487003.4120000005
+Import,2023,Puerto Rico,1125066.808
+Import,2023,Qatar,3731913.798
+Import,2023,Repablic Of Congo,833831.6309999999
+Import,2023,Republic Of Korea,60080647.268
+Import,2023,Republic Of Kosovo,20475.687
+Import,2023,Republic Of Moldova,223912.721
+Import,2023,Returned Bahrain Goods,4546355.491
+Import,2023,Reunion,1418.789
+Import,2023,Romania,6832444.231
+Import,2023,Russian Federation,3218229.363
+Import,2023,Rwanda,15816.015
+Import,2023,S.Georgia & S.Sandwich Islands,559.432
+Import,2023,Saint Helena,22618.075
+Import,2023,Saint Kitts And Nevis,4257.867
+Import,2023,Saint Lucia,89.64
+Import,2023,Saint Pierre & Miquelon,42.901
+Import,2023,Saint Vincent,1253.832
+Import,2023,San Marino,157317.279
+Import,2023,Sao Tome And Principe,1033.838
+Import,2023,Saudi Arabia,366996477.605
+Import,2023,Senegal,13705.805
+Import,2023,Serbia,2465878.225
+Import,2023,Seychelles,70444.004
+Import,2023,Sierra Leone,57781.991
+Import,2023,Singapore,16301707.519
+Import,2023,Slovakia,9592682.074
+Import,2023,Slovenia,2882576.23
+Import,2023,Solomon Islands,1750.405
+Import,2023,Somalia,3231720.311
+Import,2023,Somoa,12793.853000000001
+Import,2023,South Africa,16017476.129
+Import,2023,Spain,77174751.573
+Import,2023,Sri Lanka,4159232.006
+Import,2023,Sudan,435818.167
+Import,2023,Sultanate Oman,51694384.147
+Import,2023,Supply Of Ships And Aircrafts,9638.038
+Import,2023,Suriname,11738.057999999999
+Import,2023,Svalbard And Jan Mayen,104.528
+Import,2023,Sweden,24265373.461999997
+Import,2023,Switzerland,134953556.941
+Import,2023,Syria,3384693.6989999996
+Import,2023,Tahiti,142852.708
+Import,2023,Taiwan,27902064.131
+Import,2023,Tajikistan,5744.145
+Import,2023,Tanzania,1215982.935
+Import,2023,Thailand,76745200.078
+Import,2023,Timor Eastern,3906.733
+Import,2023,Togo,4655.158
+Import,2023,Tokelau,30717.739
+Import,2023,Trinidad&Tobago,19956.105
+Import,2023,Tunisia,1942941.615
+Import,2023,Turkey,80507953.5849
+Import,2023,Turkmenistan,2771.9519999999998
+Import,2023,Uganda,339145.767
+Import,2023,Ukraine,1822416.977
+Import,2023,United Arab Emirates,546699973.301
+Import,2023,United Kingdom,142406033.53800002
+Import,2023,United States Minor Outlying Islands,4041.911
+Import,2023,United States Of America,364735621.89699996
+Import,2023,Uruguay,4039620.115
+Import,2023,Uzbekistan,138623.201
+Import,2023,Venezuela,24103.221
+Import,2023,Vietnam,46690830.524000004
+Import,2023,Virgin Is (Usa),10702.653
+Import,2023,Wallis And Futuna,909.116
+Import,2023,Yemen,2486880.723
+Import,2023,Zambia,874566.011
+Import,2023,Zimbabwe,45163.457
+Import,2024,Afghanistan,580846.759
+Import,2024,Albania,187892.123
+Import,2024,Algeria,394440.042
+Import,2024,Angola,690.44
+Import,2024,Anguilla,3945.9700000000003
+Import,2024,Antigua,6037.601
+Import,2024,Argentina,6904818.873
+Import,2024,Armenia,27986.702
+Import,2024,Aruba,1294.72
+Import,2024,Australia,564274499.936
+Import,2024,Austria,21011186.772
+Import,2024,Azerbaijan,470492.749
+Import,2024,Bahamas,2134.835
+Import,2024,Bahrain,5232.275
+Import,2024,Bangladesh,12249841.406
+Import,2024,Barbados,21859.89
+Import,2024,Belarus,613972.695
+Import,2024,Belgium,21450355.827
+Import,2024,Belize,65857.352
+Import,2024,Benin (Dahomey),15742.84
+Import,2024,Bhutan,1104.36
+Import,2024,Bolivia,49564.988
+Import,2024,Bosnia & Herzegovina,353919.322
+Import,2024,Botswana,10130.88
+Import,2024,Bouvet Island,53.21
+Import,2024,Brazil,500062465.438
+Import,2024,British Indian Ocean Territory,9457.12
+Import,2024,Brunei,26955.447000000004
+Import,2024,Bulgaria,3243753.785
+Import,2024,Burkina Faso,41118.685000000005
+Import,2024,Burundi,2573.597
+Import,2024,Cambodia,4341628.228
+Import,2024,Cameroon,150146.866
+Import,2024,Canada,69480054.742
+Import,2024,Cape Verde,2456.81
+Import,2024,Central African Republic,41055.215
+Import,2024,Chile,106180251.362
+Import,2024,China,837429756.631
+Import,2024,Cocos Islands,801.075
+Import,2024,Colombia,1118814.088
+Import,2024,Comoro Islands,12220.862000000001
+Import,2024,Cook Island,353.15
+Import,2024,Costa Rica,792428.143
+Import,2024,Countries And Territories Not Specified For Commercial Or Military Reasons,21168994.159
+Import,2024,Croatia,791290.762
+Import,2024,Cuba,73062.212
+Import,2024,Cyprus,2287787.577
+Import,2024,Czech Republic,18150986.052
+Import,2024,Democratic Republic Of Congo,32397181.964
+Import,2024,Denmark,17398562.99
+Import,2024,Dominica,1769.678
+Import,2024,Dominican Republic,423026.38
+Import,2024,Duty Free & Warehouse,359897.909
+Import,2024,Ecuador,2317674.443
+Import,2024,Egypt,42115808.133
+Import,2024,El Salvador,133755.101
+Import,2024,Equat Guinea,11980.632000000001
+Import,2024,Eritrea,3011.676
+Import,2024,Estonia,2874363.337
+Import,2024,Ethiopia,581708.084
+Import,2024,Falkland Island,7967.472
+Import,2024,Faroe Islands,277.541
+Import,2024,Fiji,168685.783
+Import,2024,Finland,3418218.928
+Import,2024,Fr Polynesia,1466.3
+Import,2024,France,130887897.251
+Import,2024,Free Zone Jabal Ali,13550070.166
+Import,2024,Free Zone Oman,194994.763
+Import,2024,Gabon,242581.431
+Import,2024,Gambia,3872.6809999999996
+Import,2024,Georgia,148681.231
+Import,2024,Germany,184226097.971
+Import,2024,Ghana,36426.004
+Import,2024,Greece,5066121.8549999995
+Import,2024,Guadeloupe,12068.801
+Import,2024,Guam,382.153
+Import,2024,Guatemala,1849827.556
+Import,2024,Guinea,451.201
+Import,2024,Guyana,579.365
+Import,2024,Haiti,1915.886
+Import,2024,Holy See,2037.89
+Import,2024,Honduras,166679.56
+Import,2024,Hong Kong,1838846.8
+Import,2024,Hungary,9964771.591
+Import,2024,Iceland,44303.205
+Import,2024,India,310160951.275
+Import,2024,Indonesia,50186160.824
+Import,2024,Iran,8670439.722000001
+Import,2024,Iraq,159586.463
+Import,2024,Ireland,34482391.312
+Import,2024,Israel,677433.224
+Import,2024,Italy,171270545.619
+Import,2024,Ivory Coast,2044864.724
+Import,2024,Jamaica,14327.681
+Import,2024,Japan,244467003.858
+Import,2024,Jordan,30147728.012000002
+Import,2024,Kazakhstan,35810.509
+Import,2024,Kenya,9778594.067
+Import,2024,Kuwait,52873955.971
+Import,2024,Kyrgyzstan,18509.798
+Import,2024,Lao People' S Dem Republic,114891.15
+Import,2024,Latvia,412627.084
+Import,2024,Lebanon,1297743.915
+Import,2024,Lesotho,2639.437
+Import,2024,Liberia,2089.13
+Import,2024,Libya,454.11
+Import,2024,Liechtenstein,76407.167
+Import,2024,Lithuania,2754547.363
+Import,2024,Luxembourg,495662.801
+Import,2024,Macau,25849.661
+Import,2024,Macedonia,72733.041
+Import,2024,Madagascar,206151.763
+Import,2024,Malaysia,28431384.877
+Import,2024,Maldive Islands,7822.112
+Import,2024,Mali,2443936.413
+Import,2024,Malta,970411.6140000001
+Import,2024,Martinique,30.976000000000003
+Import,2024,Mauritania,3123.014
+Import,2024,Mauritius,148615.177
+Import,2024,Mexico,26707595.889
+Import,2024,Monaco,22473.16
+Import,2024,Mongolia,4648.772
+Import,2024,Montenegro,22695.889
+Import,2024,Morocco,4382713.869
+Import,2024,Mozambique,23033.944000000003
+Import,2024,Myanmar,2421760.585
+Import,2024,Namibia,61323.848
+Import,2024,Nauru,190756.19
+Import,2024,Nepal,161714.46500000003
+Import,2024,Netherlands,44620904.998
+Import,2024,Netherlands Antilles,2330.734
+Import,2024,Neutral Zone,262.57
+Import,2024,New Caledonia,13689.725999999999
+Import,2024,New Zealand,17962518.008
+Import,2024,Nicaragua,42065.591
+Import,2024,Niger,9873.434000000001
+Import,2024,Nigeria,5570279.089
+Import,2024,Northern Mariana Islands,49163.404
+Import,2024,Norway,3910999.878
+Import,2024,Pakistan,30182113.963
+Import,2024,Palestine,219598.55599999998
+Import,2024,Panama,126846.264
+Import,2024,Papua New Guinea,16267.135
+Import,2024,Paraguay,225444.774
+Import,2024,Peru,803991.024
+Import,2024,Philippines,9249432.21
+Import,2024,Pitcairn,2.28
+Import,2024,Poland,46087369.269
+Import,2024,Portugal,6361190.823
+Import,2024,Puerto Rico,825361.8539999999
+Import,2024,Qatar,21345444.738
+Import,2024,Repablic Of Congo,25875.728
+Import,2024,Republic Of Korea,71781008.324
+Import,2024,Republic Of Kosovo,36866.201
+Import,2024,Republic Of Moldova,173117.402
+Import,2024,Returned Bahrain Goods,5428698.44
+Import,2024,Reunion,9742.384
+Import,2024,Romania,6963536.842
+Import,2024,Russian Federation,3330307.866
+Import,2024,Rwanda,19334.081
+Import,2024,Saint Helena,815.29
+Import,2024,Saint Kitts And Nevis,10455.661
+Import,2024,Saint Pierre & Miquelon,21.069
+Import,2024,San Marino,11114.833
+Import,2024,Sao Tome And Principe,18903.675
+Import,2024,Saudi Arabia,376309011.732
+Import,2024,Senegal,4440.143
+Import,2024,Serbia,1717927.253
+Import,2024,Serbia And Montenegro,1037.156
+Import,2024,Seychelles,41677.074
+Import,2024,Sierra Leone,85333.169
+Import,2024,Singapore,37922538.311
+Import,2024,Slovakia,12064298.818
+Import,2024,Slovenia,4372075.996
+Import,2024,Solomon Islands,1701.1599999999999
+Import,2024,Somalia,6049815.498
+Import,2024,Somoa,87.69999999999999
+Import,2024,South Africa,18458156.802
+Import,2024,Spain,68029672.573
+Import,2024,Sri Lanka,4740457.455
+Import,2024,Sudan,518057.704
+Import,2024,Sultanate Oman,51788509.565
+Import,2024,Supply Of Ships And Aircrafts,32409.006999999998
+Import,2024,Suriname,11330.731
+Import,2024,Swaziland,232.076
+Import,2024,Sweden,14659826.766
+Import,2024,Switzerland,116276720.66600001
+Import,2024,Syria,4189913.4190000007
+Import,2024,Tahiti,97330.059
+Import,2024,Taiwan,22380147.63
+Import,2024,Tajikistan,6123.677
+Import,2024,Tanzania,1337088.64
+Import,2024,Thailand,82923453.707
+Import,2024,Timor Eastern,40956.198000000004
+Import,2024,Togo,163709.54
+Import,2024,Tokelau,30944.882999999998
+Import,2024,Tonga,6779.16
+Import,2024,Trinidad&Tobago,25327.921
+Import,2024,Tunisia,2039662.879
+Import,2024,Turkey,67880700.093
+Import,2024,Turkmenistan,542.281
+Import,2024,Turks & Caicos,653.74
+Import,2024,Uganda,126791.845
+Import,2024,Ukraine,2734436.667
+Import,2024,United Arab Emirates,444932054.506
+Import,2024,United Kingdom,199092245.60999998
+Import,2024,United States Minor Outlying Islands,45.63
+Import,2024,United States Of America,358534474.17
+Import,2024,Uruguay,802527.474
+Import,2024,Uzbekistan,576515.504
+Import,2024,Venezuela,57500.011
+Import,2024,Vietnam,60924405.59568
+Import,2024,Virgin Is (Usa),48928.826
+Import,2024,Wallis And Futuna,4683.280000000001
+Import,2024,Western Samoa,1738.68
+Import,2024,Yemen,3183528.813
+Import,2024,Zambia,647949.438
+Import,2024,Zimbabwe,38492.313
